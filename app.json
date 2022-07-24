@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/smsmsource/SMSMLOLSAD",
+    "repository": "https://github.com/adhamsamyelshora/Smsmarabicacc200",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
